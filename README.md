@@ -1,1 +1,1 @@
-# teach-app
+# GAE, React, Redux, React Router, Flask skeleton
