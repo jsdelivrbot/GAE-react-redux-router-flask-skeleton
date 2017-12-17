@@ -1,0 +1,9 @@
+static/node_modules
+/lib
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
